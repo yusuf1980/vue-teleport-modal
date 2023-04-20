@@ -20,7 +20,7 @@ npm install
 
     npx tailwindcss init -p
 
-Tailwind.config.js
+tailwind.config.js
 ...
 
     export default {
