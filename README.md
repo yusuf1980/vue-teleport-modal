@@ -1,4 +1,4 @@
-# vue-components
+# Vue Teleport Modal Tailwind
 
 This template should help get you started developing with Vue 3 in Vite.
 
